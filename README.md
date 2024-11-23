@@ -24,6 +24,11 @@ Before you run the sample code project:
 	pip3 install Ninja
 	```
 
+Note: 
+We might need to install `numpy` and other dependencies depend on your machine.
+Check out the requirements.txt for other dependecies this project requiremnts.
+
+
 4. Run the sample.
 
 	```
